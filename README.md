@@ -3,3 +3,5 @@ This is a data analysis project based on a sample dataset that contains state-wi
 
 I've uploaded my .ipynb file here to refer to the code and insights. Dataset is also uploaded that has been used for this project.
 Please note that this is just a basic and simple, beginner-level data analysis project.
+
+You can find my blog and detailed explanation on this project in the following link: <link>
